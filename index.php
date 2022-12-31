@@ -17,8 +17,8 @@
 	$mail->Host = 'smtp.gmail.com';
 	$mail->SMTPAuth = true;
 	//this is the email that is sending the message i.e to the recipient, 
-	$mail->Username = 'codetechdev001@gmail.com';
-	$mail->Password = 'vtezozxsbuvztpzi';
+	$mail->Username = 'youremailusedforsmtp';
+	$mail->Password = 'yourgmailpassword';
 	$mail->SMTPSecure = 'ssl';
 	$mail->Port = 465;
 
